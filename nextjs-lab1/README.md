@@ -43,8 +43,19 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - nodemailer
 - react-hot-toast
 - mongoose
+- nodemailer
 
 
 ## Reference
 
 https://youtu.be/ETV17M4SauU?si=MFLVWWE_yTgsxy29
+
+
+## Third-side application
+
+- MongoDB
+- Mailtrap
+
+## Extention
+
+- Github Copilot
